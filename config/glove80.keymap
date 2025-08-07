@@ -93,12 +93,12 @@
             // | MAGIC | HOME| END | LEFT | RIGHT|      | BSPC  | DEL   | LALT  | | RALT  | RET   | SPACE |      |  UP   | DOWN  |  [   |   ]   | PGDN |
 
             bindings = <
-&kp ESC    &kp F2        &kp F3  &kp F4  &kp F5                                                                                &kp F6  &kp ESC  &kp F8  &kp F9    &kp F10
-&kp EQUAL  &kp N1        &kp N2  &kp N3  &kp N4  &kp N5                                                                &kp N6  &kp N7  &kp N8   &kp N9  &kp N0    &kp MINUS
-&kp TAB    &kp Q         &kp N1  &kp N2  &kp N3  &kp N4                                                                &kp N5  &kp N6  &kp N7   &kp N8  &kp N9    &kp N0
-&kp TAB    &kp A         &kp Q   &kp W   &kp E   &kp R                                                                 &kp T   &kp Y   &kp U    &kp I   &kp O     &kp PG_UP
-&kp LSHFT  &kp W         &kp A   &kp S   &kp D   &kp F   &kp G      &kp N5  &layer_td  &kp LGUI  &kp RCTRL  &kp RSHFT  &kp H   &kp J   &kp K    &kp L   &kp FSLH  &kp PG_DN
-&kp LCTRL  &kp LG(LGUI)  &kp Z   &kp X   &kp C           &kp SPACE  &kp V   &kp B      &kp RALT  &kp RET    &kp SPACE          &kp N   &kp M    &kp P   &kp HOME  &kp END
+&kp ESC    &kp F2        &kp F3  &kp F4  &magic 2 0                                                                                &kp F6  &kp ESC  &kp F8  &kp F9    &kp F10
+&kp EQUAL  &kp N1        &kp N2  &kp N3  &kp N4      &kp N5                                                                &kp N6  &kp N7  &kp N8   &kp N9  &kp N0    &kp MINUS
+&kp TAB    &kp Q         &kp N1  &kp N2  &kp N3      &kp N4                                                                &kp N5  &kp N6  &kp N7   &kp N8  &kp N9    &kp N0
+&kp TAB    &kp A         &kp Q   &kp W   &kp E       &kp R                                                                 &kp T   &kp Y   &kp U    &kp I   &kp O     &kp PG_UP
+&kp LSHFT  &kp W         &kp A   &kp S   &kp D       &kp F   &kp G      &kp N5  &layer_td  &kp LGUI  &kp RCTRL  &kp RSHFT  &kp H   &kp J   &kp K    &kp L   &kp FSLH  &kp PG_DN
+&kp LCTRL  &kp LG(LGUI)  &kp Z   &kp X   &kp C               &kp SPACE  &kp V   &kp B      &kp RALT  &kp RET    &kp SPACE          &kp N   &kp M    &kp P   &kp HOME  &kp END
             >;
         };
 
