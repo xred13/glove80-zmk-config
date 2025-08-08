@@ -97,7 +97,7 @@
 &none      &none         &kp F1  &kp F2  &kp F3      &kp F4                                                                          &kp F5    &kp F6      &kp F7           &kp F8      &kp F9            &kp F10
 &none      &none         &kp N1  &kp N2  &kp N3      &kp N4                                                                          &kp N5    &kp N6      &kp N7           &kp N8      &kp N9            &none
 &kp ESC    &kp CAPSLOCK  &kp Q   &kp W   &kp E       &kp R                                                                           &kp PT_Y  &kp PT_U    &kp PT_I         &kp PT_O    &kp PT_N0         &kp PG_UP
-&kp TAB    &kp LSHIFT    &kp A   &kp S   &kp D       &kp F   &kp G     &kp T     &mo 2         &none       &mo 1          &kp LALT   &kp H     &kp J       &kp K            &kp L       &kp PT_C_CEDILLA  &kp PG_DN
+&kp TAB    &kp LSHIFT    &kp A   &kp S   &kp D       &kp F   &kp G     &kp T     &mo 2         &mo 1       &none          &kp LALT   &kp H     &kp J       &kp K            &kp L       &kp PT_C_CEDILLA  &kp PG_DN
 &kp LCTRL  &kp LG(LGUI)  &kp Z   &kp X   &kp C               &kp PT_V  &kp PT_B  &kp PT_SPACE  &kp DELETE  &kp BACKSPACE  &kp ENTER            &kp N       &kp M            &kp P       &kp HOME          &kp END
             >;
         };
